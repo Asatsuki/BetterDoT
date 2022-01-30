@@ -14,19 +14,19 @@
       credits=""
       authors="Asatsuki256"
       description='''
-      Independent DoT invincible time
-      '''
+Independent DoT invincible time
+'''
 
-      [[dependencies.betterdot]]
-        modId="forge"
-        mandatory=true
-        versionRange="[37,)"
-        ordering="NONE"
-        side="BOTH"
+    [[dependencies.betterdot]]
+      modId="forge"
+      mandatory=true
+      versionRange="[37,)"
+      ordering="NONE"
+      side="BOTH"
 
-      [[dependencies.betterdot]]
-        modId="minecraft"
-        mandatory=true
-        versionRange="1.18)"
-        ordering="NONE"
-        side="BOTH"
+    [[dependencies.betterdot]]
+      modId="minecraft"
+      mandatory=true
+      versionRange="1.18)"
+      ordering="NONE"
+      side="BOTH"
