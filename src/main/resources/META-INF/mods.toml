@@ -6,7 +6,7 @@
 
     [[mods]]
       modId="betterdot"
-      version="0.0.0.0"
+      version="1.0.0.0"
       displayName="Better DoT"
       logoFile="logo.png"
       authors="Asatsuki256"
