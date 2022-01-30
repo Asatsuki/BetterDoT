@@ -1,17 +1,14 @@
     modLoader="javafml"
     loaderVersion="[37,)"
-    license="All rights reserved"
-    issueTrackerURL=""
+    license="MIT"
+    issueTrackerURL="https://github.com/Asatsuki/BetterDoT/issues"
     showAsResourcePack=false
 
     [[mods]]
       modId="betterdot"
       version="0.0.0.0"
       displayName="Better DoT"
-      updateJSONURL=""
-      displayURL=""
       logoFile="logo.png"
-      credits=""
       authors="Asatsuki256"
       description='''
 Independent DoT invincible time
