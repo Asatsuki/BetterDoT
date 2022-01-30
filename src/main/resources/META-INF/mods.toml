@@ -1,0 +1,32 @@
+    modLoader="javafml"
+    loaderVersion="[37,)"
+    license="All rights reserved"
+    issueTrackerURL=""
+    showAsResourcePack=false
+
+    [[mods]]
+      modId="betterdot"
+      version="0.0.0.0"
+      displayName="Better DoT"
+      updateJSONURL=""
+      displayURL=""
+      logoFile="logo.png"
+      credits=""
+      authors="Asatsuki256"
+      description='''
+      Independent DoT invincible time
+      '''
+
+      [[dependencies.betterdot]]
+        modId="forge"
+        mandatory=true
+        versionRange="[37,)"
+        ordering="NONE"
+        side="BOTH"
+
+      [[dependencies.betterdot]]
+        modId="minecraft"
+        mandatory=true
+        versionRange="1.18)"
+        ordering="NONE"
+        side="BOTH"
